@@ -23,7 +23,7 @@ grails.project.dependency.resolution = {
     }
 
     plugins {
-        runtime ":hibernate:$grailsVersion", {
+        runtime ":hibernate:3.6.10.7", {
             export = false
         }
 
